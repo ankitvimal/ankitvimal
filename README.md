@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ankitvimal
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Supervised Learning in ML.
-- 💞️ I’m looking for a mentor for UG research in ML.
-- 📫 Reach me at ankit.vimal97@gmail.com
+- 👀 I’m interested in Open Source Contribution.
+- 💞️ I’m looking for a mentor for Open Source Contribution.
+- 📫 Reach me at ankit.vimal@outlook.com
 
 <!---
 ankitvimal/ankitvimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
