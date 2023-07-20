@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ankitvimal
 - 🪴 I'm a B.Tech Computer Sc. & Engineering graduate.
 - 👀 I’m interested in Open Source Contribution.
-- 💞️ I’m looking for a mentor for Open Source Contribution.
 - 📫 Reach me at ankit.vimal@outlook.com
 
 <!---
